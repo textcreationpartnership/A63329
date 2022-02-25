@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True account of the last speeches, confessions, and execution of Christopher Vrats, George Boriskie, and John Sterne who were tryed and found guilty of the barbarous murther of Thomas Thinn, Esq. on the 12 of February last, and executed in the Pallmall, near the place where they committed the murther</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63329</idno>
+            <idno type="STC">Wing T2380A</idno>
+            <idno type="STC">ESTC R25672</idno>
+            <idno type="EEBO-CITATION">09058390</idno>
+            <idno type="OCLC">ocm 09058390</idno>
+            <idno type="VID">42357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True account of the last speeches, confessions, and execution of Christopher Vrats, George Boriskie, and John Sterne who were tryed and found guilty of the barbarous murther of Thomas Thinn, Esq. on the 12 of February last, and executed in the Pallmall, near the place where they committed the murther</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Brooks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thynne, Thomas, 1648-1682.</term>
+               <term>Borodzycz, George, d. 1682.</term>
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Stern, John, d. 1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:42357:1"/>
+            <pb n="1" facs="tcp:42357:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT Of the laſt Speeches, Confeſſions, AND EXECVTION OF <hi>Chriſtopher Vrats, George Boriskie,</hi> and <hi>John Sterne,</hi> who were Tryed and found Guilty of the Barbarous Murther of <hi>Thomas Thinn</hi> 
+               <abbr>Eſq</abbr> on the 12 of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> laſt, and Executed in the <hi>Pallmall</hi> near the place where they committed the Murther, on the 10th of this inſtant <hi>March.</hi> Together with the manner of their behaviours in <hi>Newgate</hi> after their Condemnations, and at the place of Execution, containing ſeveral very remarkable Paſſages that happened there.</head>
+            <p>IT has been obſerved in moſt Ages, that offended Heaven ſeldom ſuffers Murther to be long concealed, or the Murtherers to ſcape unpuniſhed, for by one means or other they are ſtill brought to light, and Juſtice moſt deſervedly takes place, as in the fatal Ca<g ref="char:EOLhyphen"/>taſtrophy of theſe miſerable Villains, we ſhall more amply demonſtrate, <hi>viz.</hi> of <hi>John Sterne, Chriſtopher Urats,</hi> and <hi>George Boriskie,</hi> Executed for the baſe and Villanous Murther of <hi>Thomas Thinn</hi> 
+               <abbr>Eſq</abbr> who on the 12th of <hi>February</hi> last was ſhot by <hi>Boriskie</hi> with a Blunderbuſs as he was Riding in his Coach, which was charged with four Bullets, and they being ſhot into his Body at four ſeveral places, he died of the wounds within Ten hours after, and although at that time the Murtherers by the ſwiftneſs of their Horſes, made their eſcape, and got to their Lodgings, yet ſuch was Heavens pleaſure, that they ſhould not eſcape unpuniſhed, though not one of their Faces were ſeen at the time the Murther was committed, ſo as to be known again. But Juſtice, as we moſt truely may affirm,
+<pb n="2" facs="tcp:42357:2"/>diſcovered them almoſt by Miracle; for not only a Piſtol which one of them had with them, was found upon the place, but likewiſe a Chair<g ref="char:EOLhyphen"/>man that having carried Captain <hi>Urats</hi> to the Bull-Inne in <hi>Holbourn</hi> the Morning before the Murther was committed, going accidentally in to ask him whether he would diſcharge him, found him charging Piſtols, and upon hearing of the Murther, directed ſuch as ſought for the Mur<g ref="char:EOLhyphen"/>therers to that Houſe, where after a ſhort time they found <hi>Amens Berge</hi> the Captains man, who owned the Piſtol ſo found to be his Maſters, and alſo upon Examination diſcloſed the place where he Lay, who upon his being taken, diſcovered the reſt; who all being apprehended, upon Examination confeſſed the Murther, for which being commit<g ref="char:EOLhyphen"/>ted to <hi>Newgate,</hi> after 16 days continuance there, they were brought to their Tryals at the <hi>Old-Baily,</hi> (where a Jury of half <hi>Engliſh</hi> and half <hi>Strangers</hi> being Sworn) they Pleaded not Guilty, but the Evidence be<g ref="char:EOLhyphen"/>ing Sworn againſt them, and their Examinations produced, they con<g ref="char:EOLhyphen"/>feſſed the Murther, though in a different manner; <hi>Urats</hi> the Captain declared, <hi>That he having heard that the Deceaſed had put ſome affronts upon Count</hi> Coningſmark, <hi>he (as having been a Servant to his Uncle and Father) thought himſelf bound in point of Honour to take the Quarrel upon himſelf, and that he only took</hi> Boriskie <hi>and</hi> Sterne <hi>as his ſeconds, he being minded to Chal<g ref="char:EOLhyphen"/>longe the Deceaſed. Boriskie</hi> confeſſed, <hi>That Captain</hi> Urats <hi>bid him fire into whatſoever Coach he ſtopped.</hi> And as for <hi>Sterne,</hi> he confeſſed, <hi>That he knew not the Deſigne, but only went for Company:</hi> Upon this they received ſentence of Death, and were remanded to <hi>Newgate,</hi> there to continue until their Execution; ſince their Sentence they have been for the moſt part kept a ſunder, and ſeveral Perſons of Quality have been to viſit them, and by many Arguments perſwaded them to confeſs the real cauſe of the Murther, and what induced them to undertake ſo baſe and villanous an Enterprizes but eſpecially the Captain ſtood obſtinately (as it were) in vindicating what he had done, alleadging, <hi>That it was the Cuſtome in their Country to Piſtol any one that refuſes a Challenge:</hi> And not<g ref="char:EOLhyphen"/>withſtanding the earneſt Exhortations of many Pious Divines, to prepare himſelf for another world, he ſeemed very careleſs of their Inſtructions, which ſome perſons imputed to the hopes he conceived of obtaining his Majeſties Pardon, but as for the other two, <hi>viz. Boriskie</hi> and <hi>Sterne,</hi> they ſeemed much more concerned, eſpecially the latter, who often retired himſelf from the company that came to viſit them, being often ſeen in private at his Devotion, and much bewailing himſelf for the Inno<g ref="char:EOLhyphen"/>cent Blood he had ſhed, wiſhing that he had not liv'd to have ſeen the day wherein the cauſe of his Death was effected, declaring, <hi>that he had never any Malice againſt the Deceaſed, but that he was drawn into the wicked Enterprize through the perſwaſions of the Captain, with whom he had firſt taken acquaintance in the</hi> French <hi>Kings Service.</hi> As for <hi>Boriskie</hi> that Bloody
+<pb n="3" facs="tcp:42357:2"/>Aſſaſſinate who diſcharged the Peice, he had little convers with any perſon, by reaſon he was not ſo well verſed in the <hi>Engliſh</hi> Tongue, ſo as to underſtand what was ſaid unto him, but being asked whether he knew the <hi>Blunderbus</hi> to be charged, by reaſon that up<g ref="char:EOLhyphen"/>on his Tryal he pleaded Ignorance, he replyed, <hi>That notwithſtand<g ref="char:EOLhyphen"/>ing what he had there ſaid (when there was ſome hopes of ſaving his Life) he well knew it to be Charged with Powder and Bullet, but with how many Bullets he was not certain, and that the Captain delivered it to him under pretence to defend him againſt the Eſquires Footmen, in caſe the Eſquire ſhould come out and fight as</hi> Urats <hi>at firſt pretended he believed he would, but that afterwards he bid him (when he ſtopped the Coach) Fire into the ſame, or to that effect, whoſe unfortunate directions he followed to his own undoing;</hi> And further, <hi>that he came over in hopes of Preferment, but that now he was like to meet with ſuch as would ſpoil his return.</hi> He and <hi>Sterne</hi> were very attentive at any time when Miniſters came to pray with them, as paſt doubt not being unſenſible that they had but a ſmall remainder of life left, and that it was high time to prepare themſelves for another world: Dr. <hi>Burnet</hi> not only Preached to them on <hi>Sunday</hi> laſt, but likewiſe was with them ſix or ſeven times to exhort them to a free Confeſſion, and to ſhew them how they ſtood (as it were) upon the brink of Eternity, juſt ready to be puſhed off, their time being limited to a certain day, and that they could not reaſonably hope or expect any prolongation of their lives, who had bereaved a worthy Gentleman of his ſo ſuddainly, and to him unexpected, one from whom ſome of them had con<g ref="char:EOLhyphen"/>feſſed they never received any prejudice, nor had cauſe of conceiv<g ref="char:EOLhyphen"/>ing any hatred, and to this effect were they daily exhorted by Pious men, who, notwithſtanding their Villanous act, had a regard to their Souls. They likewiſe made great profeſſion that they had been brought up in Proteſtant Countries, and that they had ſerved againſt the Papiſts, but that was but a ſmall excuſe to mitigate the hainous Crime they were convicted of. The day appointed for their Execution, according to the Warrant directed to the Sheriffs, was to be on the 8th of this Inſtant, but at their humble requeſt, for a longer time to prepare themſelves for another world, they were reprieved till this day, when about Nine in the Morning the Sheriffs Officers came to demand them; after having had ſome conference with ſuch as came to pay their laſt viſits, were brought down by Captain <hi>Richardſons</hi> Servants, and delivered at the door of the Priſon to the Sheriffs Officers, as is uſual in ſuch Caſes. The Captain at his firſt coming down look'd very brisk, but he perceiving there was no way but that he muſt go to his long
+<pb n="4" facs="tcp:42357:3"/>home, his countenance greatly alter'd, and he many times in the way to the place of Execution, hung down his head, the other two look'd like Men whom the fear of Death had altogether ſtupified, ſo that we may perceive that ſuch as are bold and daring to commit Murthers and bereave others of their Lives are moſt timerous when Death begins to ſtare them in the face, all along as they paſſed there were Crouds of People, not only in the Street, but in the Windows and Balconeys, that the like has not been ſeen ſince the Execution of their fellow Murtherers, thoſe deteſted Wretch<g ref="char:EOLhyphen"/>es that as Inhumanly and baſely Murthered that Worthy Knight Sir <hi>Edmundbury Godfrey.</hi> They being come to the place of Ex<g ref="char:EOLhyphen"/>ecution, where the Gibbets were placed as near as could be gueſ<g ref="char:EOLhyphen"/>ſed on the ſpot where the Coach ſtood, when the Deceaſed was ſhot, the Carts drawing under them, ſtood ſtill, and being inclo<g ref="char:EOLhyphen"/>ſed round with the Guards that went to ſee Execution done, the Murtherers being unbound, ſtood up with dejected looks, ſeveral Miniſters being with them, the Captain often looking wiſhfully a<g ref="char:EOLhyphen"/>bout him, (as ſome thought) in hopes of a Reprieve; when after an hours ſpace, having received ſeveral Exhortations, and ſaid ſome Prayers in their own Language, <hi>Urats</hi> being a <hi>German, Bo<g ref="char:EOLhyphen"/>riſkie</hi> a <hi>Polander</hi> and <hi>Sterne</hi> a <hi>Sweed,</hi> the two laſt often lifted up their Hands, and bewailed their unhappy ends, not in the leaſt denying the Murther, nor that they deſerved to dye for the ſame: the Captain likewiſe ſpoke ſeveral words in <hi>French,</hi> and after they had thus done, the Executioner did his Office, where after they had Hang'd about three Quarters of an hour, they were taken down and conveyed thence.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Brooks.</hi>
+            </p>
+            <pb facs="tcp:42357:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
